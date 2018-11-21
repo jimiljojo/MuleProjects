@@ -18,7 +18,7 @@ output application/json
 [
   {
     "id": 1,
-    "name": "Leanne Graham",
+    "name": "Jimil Patel",
     "username": "Bret",
     "email": "Sincere@april.biz",
     "address": {
