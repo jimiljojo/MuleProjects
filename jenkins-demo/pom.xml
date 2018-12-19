@@ -29,8 +29,8 @@
 					<cloudHubDeployment>
 						<uri>https://anypoint.mulesoft.com</uri>
 						<muleVersion>4.1.5</muleVersion>
-						<username>${username}</username>
-						<password>${password}</password>
+						<username>jimiljenkins</username>
+						<password>Jimiljenkins1</password>
 						<applicationName>jenkins-demo-jimiljojo1</applicationName>
 						<environment>Sandbox</environment>
 						<workerType>Micro</workerType>
